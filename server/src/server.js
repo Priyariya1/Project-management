@@ -17,7 +17,7 @@ async function start() {
   }
 
   server = app.listen(config.port,'0.0.0.0', () => {
-    logger.info(`API listening on http://localhost:${config.port} (${config.nodeEnv})`);
+    logger.info(`API listening on ${config.port} (${config.nodeEnv})`);
   });
 }
 

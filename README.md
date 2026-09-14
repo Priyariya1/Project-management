@@ -81,15 +81,6 @@ npm run dev                                            # → http://localhost:51
 
 Open **http://localhost:5173**.
 
-If you seeded the database, sign in with:
-
-| Email | Password |
-| --- | --- |
-| `ada@example.com` | `Password123` |
-| `grace@example.com` | `Password123` |
-
-The two accounts hold different data — useful for confirming that one user
-cannot see another's projects.
 
 ---
 
